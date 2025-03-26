@@ -1,6 +1,6 @@
 # TrustAd
 
-![TrustAd Logo](https://your-logo-url.com/logo.png)  
+![TrustAd Logo](https://github.com/Vikhyath1608/HackPrix/blob/main/static/images/illuminati.png?raw=true)  
 
 ## 🌟 Introduction
 TrustAd is an innovative advertising model that delivers personalized advertisements directly to users' devices **without compromising privacy**. Unlike traditional advertising systems that send browsing history and personal data to remote servers, TrustAd processes all data **locally on the client side**. This ensures that sensitive information **never leaves the user's device**, eliminating the risk of data breaches and unauthorized access while providing a **secure and private browsing experience**.  
